@@ -31,8 +31,8 @@ I actively contribute to the Rust ecosystem. Check out my published crates:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farazapp&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazapp&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farshadsharifi&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farshadsharifi&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
 </div>
 
 ---
@@ -60,4 +60,4 @@ I thrive on solving complex engineering challenges and believe in writing clean,
 * **LinkedIn:** https://www.linkedin.com/in/farshadsharifiorg
 * **Website/Portfolio:** https://farshadsharifi.ir/
 
-![Visitor Count](https://profile-counter.glitch.me/farazapp/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/farshadsharifi/count.svg)
