@@ -39,7 +39,7 @@ I actively contribute to the Rust ecosystem. Check out my published crates:
 
 ## 🚀 About Me
 
-I am a results-driven **Senior Software Engineer** with over [تعداد سال] years of experience in architecting and developing scalable applications. My expertise lies at the intersection of high-performance system programming and robust enterprise solutions.
+I am a results-driven **Senior Software Engineer** with over 17 years of experience in architecting and developing scalable applications. My expertise lies at the intersection of high-performance system programming and robust enterprise solutions.
 
 - 🦀 **Rust Enthusiast:** I am passionate about memory safety and concurrency. I've authored several open-source libraries on **Crates.io** focusing on [موضوع کتابخانه‌ها، مثلا: performance and data structures].
 - 💻 **Enterprise Systems:** Proficient in **C# (.NET Core)** and **PHP (Laravel/Symfony)** for building complex, high-traffic backend architectures.
