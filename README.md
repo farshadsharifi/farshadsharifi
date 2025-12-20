@@ -22,9 +22,8 @@ I actively contribute to the Rust ecosystem. Check out my published crates:
 
 | Crate Name | Description | Downloads |
 | --- | --- | --- |
-| **[[Name of Crate 1]]** | [Short description of what it does] | [![Crates.io](https://img.shields.io/crates/d/[Name of Crate 1])](https://crates.io/crates/iranianbank) |
+| **[[iranianbank]]** | [Short description of what it does] | [![Crates.io](https://img.shields.io/crates/d/iranianbank)](https://crates.io/crates/iranianbank) |
 | **[[Name of Crate 2]]** | [Short description of what it does] | [![Crates.io](https://img.shields.io/crates/d/[Name of Crate 2])](https://crates.io/crates/[Name of Crate 2]) |
-| **[[Name of Crate 3]]** | [Short description of what it does] | [![Crates.io](https://img.shields.io/crates/d/[Name of Crate 3])](https://crates.io/crates/[Name of Crate 3]) |
 
 ---
 
