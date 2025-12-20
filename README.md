@@ -23,7 +23,7 @@ I actively contribute to the Rust ecosystem. Check out my published crates:
 | Crate Name | Description | Downloads |
 | --- | --- | --- |
 | **iranianbank** | iranianbank provides a robust set of tools to handle Iranian banking data, including Card number validation (Luhn algorithm), IBAN (Sheba) generation and validation, and bank identification. | [![Crates.io](https://img.shields.io/crates/d/iranianbank)](https://crates.io/crates/iranianbank) |
-| **[[Name of Crate 2]]** | [Short description of what it does] | [![Crates.io](https://img.shields.io/crates/d/[Name of Crate 2])](https://crates.io/crates/[Name of Crate 2]) |
+| **iranianbank** | iranianbank provides a robust set of tools to handle Iranian banking data, including Card number validation (Luhn algorithm), IBAN (Sheba) generation and validation, and bank identification. | [![Crates.io](https://img.shields.io/crates/d/iranianbank)](https://crates.io/crates/iranianbank) |
 
 ---
 
