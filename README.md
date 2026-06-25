@@ -23,7 +23,7 @@ I actively contribute to the Rust ecosystem. Check out my published crates:
 | Crate Name | Description | Downloads |
 | --- | --- | --- |
 | **iranianbank** | iranianbank provides a robust set of tools to handle Iranian banking data, including Card number validation (Luhn algorithm), IBAN (Sheba) generation and validation, and bank identification. | [![Crates.io](https://img.shields.io/crates/d/iranianbank)](https://crates.io/crates/iranianbank) |
-| **iranianbank** | iranianbank provides a robust set of tools to handle Iranian banking data, including Card number validation (Luhn algorithm), IBAN (Sheba) generation and validation, and bank identification. | [![Crates.io](https://img.shields.io/crates/d/iranianbank)](https://crates.io/crates/iranianbank) |
+| **tgju** | A professional and asynchronous Rust client for scraping gold, coin, and currency prices from TGJU.org | [![Crates.io](https://img.shields.io/crates/d/tgju)](https://crates.io/crates/tgju) |
 
 ---
 
